@@ -30,7 +30,7 @@ Contributions, issues, and feature requests are welcome! Feel free to fork this 
 ---
 ## 📧 Contact  
 👤 **Piyush Dhanpal Patil**  
-- GitHub: [your-username](https://github.com/your-)  
-- Email: piyushpatil1426@gmail.com
+- GitHub: [piyushpatil1426-sketch](https://github.com/piyushpatil1426-sketch)  
+- Email- piyushpatil1426@gmail.com
 
 ---
